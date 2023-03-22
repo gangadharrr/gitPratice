@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello
+=======
+HI
+>>>>>>> c7232a7 (test2 file updated with hi)
